@@ -1,4 +1,4 @@
-baseURL = "http://toto.org/"
+baseURL = "https://61d527ac8b19e3a3f9aeaa64--relaxed-keller-c8466a.netlify.app/"
 languageCode = "en-us"
 theme = "hyde"
 title = "My New Hugo Site"
